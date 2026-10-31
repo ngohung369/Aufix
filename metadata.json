@@ -1,0 +1,10 @@
+{
+  "name": "Remix Veo App Pro - Sổ Tay \u0026 AI Quét Giấy Tờ Xe Thông Minh",
+  "description": "Ứng dụng buồng lái quản lý xe thông minh Veo: chụp ảnh quét OCR tự động điền giấy tờ xe, đăng kiểm, bảo hiểm, hóa đơn bảo dưỡng \u0026 theo dõi chi phí xe.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
